@@ -1,11 +1,11 @@
+#main {
+    color: aquamarine;
+}
+
 html {
-    background: blanchedalmond;
+    background: grey;
 }
 
-h1 {
-    text-align: center;
-}
-
-footer {
-    text-align: center;
+.white-text {
+    color: white;
 }
