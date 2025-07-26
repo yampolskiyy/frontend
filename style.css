@@ -1,13 +1,19 @@
-html {
-    background-color: darkcyan;
+#px {
+    font-size: 20px;
 }
 
-h1 {
-    background-color: black;
-    color: aquamarine;
+#pt {
+    font-size: 20pt;
+    font-family: "Google Sans Code", monospace;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
 }
 
-h2 {
-    background-color: deeppink;
-    color: black;
+#em {
+    font-size: 2em;
+}
+
+#rem {
+    font-size: 4rem;
 }
