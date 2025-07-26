@@ -1,11 +1,12 @@
-#main {
-    color: aquamarine;
-}
-
 html {
-    background: grey;
+    background: blanchedalmond;
 }
 
-.white-text {
-    color: white;
+#main {
+    color: darkblue;
+}
+
+.black-text-center-aligned {
+    color: black;
+    text-align: center;
 }
