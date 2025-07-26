@@ -1,13 +1,13 @@
 html {
-    background: darkcyan;
+    background-color: darkcyan;
 }
 
 h1 {
-    background: black;
+    background-color: black;
     color: aquamarine;
 }
 
 h2 {
-    background: deeppink;
+    background-color: deeppink;
     color: black;
 }
