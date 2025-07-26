@@ -1,13 +1,13 @@
 html {
-    background: blanchedalmond;
+    background: darkcyan;
 }
 
-#main {
-    color: darkcyan;
-    text-align: center;
+h1 {
+    background: black;
+    color: aquamarine;
 }
 
-.black-text-center-aligned {
+h2 {
+    background: deeppink;
     color: black;
-    text-align: center;
 }
