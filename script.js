@@ -2,7 +2,7 @@
 
 let user = {
     username: "John",
-    age: 25,
+    age: 18,
     bornCity: "Moscow",
 };
 
