@@ -1,10 +1,11 @@
 "use strict";
 
-let user = {
-    username: "John",
-    age: 18,
-    bornCity: "Moscow",
+let newUser = {
+    username: "",
+    age: null,
+    bornCity: "",
 };
 
-alert(user.username);
+const answer = prompt("What do you want to know about user?");
 
+alert(newUser[answer]);
