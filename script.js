@@ -1,11 +1,10 @@
 "use strict";
 
-let newUser = {
-    username: "",
-    age: null,
-    bornCity: "",
+const fruits = prompt("Какие фрукты купить?");
+const fruitsNumber = prompt(`Сколько ${fruits} купить?`);
+
+const bag = {
+    [fruits]: [fruitsNumber],
 };
 
-const answer = prompt("What do you want to know about user?");
-
-alert(newUser[answer]);
+console.log(`Пользователь хочет купить ${fruits} в количестве ${bag[fruits]} шт.`);
