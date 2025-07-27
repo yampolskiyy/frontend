@@ -1,4 +1,5 @@
 "use strict";
+
 let user = {
     username: "John",
     age: 25,
