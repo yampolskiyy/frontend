@@ -1,6 +1,6 @@
 "use strict";
 
-const fruits = prompt("Какиетмтппп фрукты купить?");
+const fruits = prompt("Какиетмтппппп фрукты купить?");
 const fruitsNumber = prompt(`Сколько ${fruits} купить?`);
 
 const bag = {
