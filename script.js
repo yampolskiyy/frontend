@@ -7,4 +7,5 @@ const bag = {
     [fruits]: [fruitsNumber],
 };
 
-console.log(`Пользователь хочет купить ${fruits} в количестве ${bag[fruits]} шт.`);
+// console.log(`Пользователь хочет купить ${fruits} в количестве ${bag[fruits]} шт.`);
+alert("fruit" in bag);
